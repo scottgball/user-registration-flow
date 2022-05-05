@@ -1,1 +1,8 @@
 /* app global css */
+
+.registrationButtonsLayout {
+  display: flex;
+  justify-content: center;
+
+}
+
